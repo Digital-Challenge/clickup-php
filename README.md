@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://clickup.com/landing/images/integrations/clickup-api-beta.png"></p>
 
-Fork for the original repo [clickup-php](https://github.com/howyi/clickup-php) | Author: [howyi](https://github.com/howyi)
+Fork for the original repo [clickup-php](https://github.com/howyi/clickup-php) | Author: [dicha-gr](https://github.com/howyi)
 
 A simple wrapper for [ClickUp](https://clickup.com/api) API (v1-BETA).
 
